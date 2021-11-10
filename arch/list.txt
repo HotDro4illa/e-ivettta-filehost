@@ -502,12 +502,6 @@
 6989664326764252417_tiktok.mp4
 7016783451089014017_tiktok.mp4
 7016788026365857025_tiktok.mp4
-e_ivettta-17092021-0001.mp4
-e_ivettta-17092021-0002.mp4
-e_ivettta-17092021-0003.mp4
-e_ivettta-28082021-0001.jpg
-e_ivettta-28082021-0001.mp4
-e_ivettta-28092021-0001.jpg
 thumb_17092021-0001.mp4.jpg
 thumb_17092021-0002.mp4.jpg
 thumb_17092021-0003.mp4.jpg
@@ -689,7 +683,3 @@ thumb_6981471986887249153_tiktok.mp4.jpg
 thumb_6989664326764252417_tiktok.mp4.jpg
 thumb_7016783451089014017_tiktok.mp4.jpg
 thumb_7016788026365857025_tiktok.mp4.jpg
-thumb_e_ivettta-17092021-0001.mp4.jpg
-thumb_e_ivettta-17092021-0002.mp4.jpg
-thumb_e_ivettta-17092021-0003.mp4.jpg
-thumb_e_ivettta-28082021-0001.mp4.jpg
