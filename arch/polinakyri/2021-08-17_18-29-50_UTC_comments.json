@@ -1,0 +1,84 @@
+[
+    {
+        "id": 17952668257493180,
+        "created_at": 1629232977,
+        "text": "@polinakyri @mormashi \u043d\u0438\u0447\u0435\u0433\u043e \u0441\u0435\u0431\u0435 \u0443 \u0432\u0430\u0441 \u0442\u0443\u0442 \u0440\u0430\u0437\u0433\u043e\u0440\u0435\u043b\u043e\u0441\u044c",
+        "owner": {
+            "id": "6632365577",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/s150x150/244782286_3059546564289235_6329429911329855063_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=HRg-kZW68_AAX-YVavg&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT9MyVPnT92RI39rRa9fgsgftMu6N1NYtRkqS8CUl1LLlw&oe=61D1FD20&_nc_sid=9fb510",
+            "username": "dunya_kurilo"
+        },
+        "likes_count": 1,
+        "answers": []
+    },
+    {
+        "id": 17913709261842659,
+        "created_at": 1629225645,
+        "text": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u043e\u043f\u0433?",
+        "owner": {
+            "id": "6632365577",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/s150x150/244782286_3059546564289235_6329429911329855063_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=HRg-kZW68_AAX-YVavg&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT9MyVPnT92RI39rRa9fgsgftMu6N1NYtRkqS8CUl1LLlw&oe=61D1FD20&_nc_sid=9fb510",
+            "username": "dunya_kurilo"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 17909694122008329,
+                "created_at": 1629232874,
+                "text": "@mormashi \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438 \u043d\u0430 \u043c\u043e\u0438\u0445 \u043a\u043e\u0440\u0435\u0448\u0435\u0439 \u043d\u0430 \u0444\u043e\u0442\u043e, \u0441 \u043d\u0438\u043c\u0438 \u043d\u0435\u043b\u044c\u0437\u044f \u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0430\u0431\u0438\u043d\u0443",
+                "owner": {
+                    "id": "3062916928",
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/19367490_157081971502719_3962284029809524736_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6BlAtsgoIW8AX-IZvcT&tn=r9Llk3akoFw2G0AR&edm=AF1ddXUBAAAA&ccb=7-4&oh=00_AT-KgWA4Smc4E97T22FrjHdCG_HCjNYUPPYG3Mf0_Syn4Q&oe=61D34E8A&_nc_sid=3f1853",
+                    "username": "polinakyri"
+                },
+                "likes_count": 4
+            },
+            {
+                "id": 17907870809061950,
+                "created_at": 1629227647,
+                "text": "@mormashi \u0442\u0430\u043a,\u0434\u043e\u043a\u0442\u043e\u0440 \u0432\u0440\u0430\u0447,\u0438\u0434\u0438\u0442\u0435 \u043f\u0440\u043e\u0441\u0438\u0442\u0435 \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0447\u043a\u0435,\u0437\u0434\u0435\u0441\u044c \u0432\u044b \u0432 \u0433\u043e\u0441\u0442\u044f\u0445\ud83e\udd10",
+                "owner": {
+                    "id": "3062916928",
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/19367490_157081971502719_3962284029809524736_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6BlAtsgoIW8AX-IZvcT&tn=r9Llk3akoFw2G0AR&edm=AF1ddXUBAAAA&ccb=7-4&oh=00_AT-KgWA4Smc4E97T22FrjHdCG_HCjNYUPPYG3Mf0_Syn4Q&oe=61D34E8A&_nc_sid=3f1853",
+                    "username": "polinakyri"
+                },
+                "likes_count": 1
+            },
+            {
+                "id": 17903376620130057,
+                "created_at": 1629227551,
+                "text": "@polinakyri \u0445\u0435\u0439, \u043f\u043e\u043f\u0440\u043e\u0448\u0443, \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u0430\u044f))",
+                "owner": {
+                    "id": "1495052154",
+                    "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/10693656_550996848335364_969899974_a.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=77DtAXzxgAIAX_0dzx1&edm=AF1ddXUBAAAA&ccb=7-4&oh=00_AT_OzDiYSVgSY5a5bzj7776B2J2Esdck6tlMgPHDI_OCBA&oe=61D2AD26&_nc_sid=3f1853",
+                    "username": "mormashi"
+                },
+                "likes_count": 0
+            },
+            {
+                "id": 17899922444301385,
+                "created_at": 1629226061,
+                "text": "@gryzi_menya \u0434\u0430 \u0442\u044b \u043c\u043e\u0451 \u0441\u043e\u043b\u043d\u044b\u0448\u043a\u043e \u043d\u0435\u0436\u043d\u043e\u0435,\u041e\u043f\u0430\u0441\u043d\u0430\u044f \u041f\u0440\u0435\u0441\u0442\u0443\u043f\u043d\u0430\u044f \u0413\u0440\u0443\u043f\u043f\u0438\u0440\u043e\u0432\u043a\u0430",
+                "owner": {
+                    "id": "3062916928",
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/19367490_157081971502719_3962284029809524736_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6BlAtsgoIW8AX-IZvcT&tn=r9Llk3akoFw2G0AR&edm=AF1ddXUBAAAA&ccb=7-4&oh=00_AT-KgWA4Smc4E97T22FrjHdCG_HCjNYUPPYG3Mf0_Syn4Q&oe=61D34E8A&_nc_sid=3f1853",
+                    "username": "polinakyri"
+                },
+                "likes_count": 1
+            },
+            {
+                "id": 17888835662291632,
+                "created_at": 1629230275,
+                "text": "@polinakyri \u043d\u0438\u0447\u0435\u0433\u043e \u0441\u0435\u0431\u0435 \u0442\u044b \u0440\u0435\u0437\u043a\u0430\u044f)",
+                "owner": {
+                    "id": "1495052154",
+                    "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/10693656_550996848335364_969899974_a.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=77DtAXzxgAIAX_0dzx1&edm=AF1ddXUBAAAA&ccb=7-4&oh=00_AT_OzDiYSVgSY5a5bzj7776B2J2Esdck6tlMgPHDI_OCBA&oe=61D2AD26&_nc_sid=3f1853",
+                    "username": "mormashi"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]

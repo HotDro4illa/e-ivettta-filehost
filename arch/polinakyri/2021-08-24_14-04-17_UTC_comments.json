@@ -1,0 +1,40 @@
+[
+    {
+        "id": 17901155024169843,
+        "created_at": 1629829512,
+        "text": "\u0410 \u043c\u044b \u0442\u0430\u043c \u0431\u044b\u043b\u0438 \u0432 \u0444\u0435\u0432\u0440\u0430\u043b\u0435! \u2603\ufe0f",
+        "owner": {
+            "id": "1401490993",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/s150x150/14063210_1012153428913295_778676354_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=36r01TnDLR4AX_1V4pf&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT-jX3hCYaAYggNL06vKscd4bEbzy9VZUo1J_8tP863aAQ&oe=61D3DDC5&_nc_sid=9fb510",
+            "username": "kotio_ya_vibirau_tebya"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 17958148081474383,
+                "created_at": 1629831596,
+                "text": "@polinakyri \u0445\u043e\u0440\u043e\u0448\u043e!\u0414\u0430\u0434\u0438\u043c \u0444\u043e\u0440\u0443 \u0444\u0438\u0437\u0438\u043a\u0430\u043c \ud83d\ude09",
+                "owner": {
+                    "id": "1401490993",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/s150x150/14063210_1012153428913295_778676354_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=36r01TnDLR4AX_1V4pf&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT-jX3hCYaAYggNL06vKscd4bEbzy9VZUo1J_8tP863aAQ&oe=61D3DDC5&_nc_sid=9fb510",
+                    "username": "kotio_ya_vibirau_tebya"
+                },
+                "likes_count": 1
+            },
+            {
+                "id": 17895818549168958,
+                "created_at": 1629830782,
+                "text": "@kotio_ya_vibirau_tebya \u0432\u044b \u0438 \u043d\u0430 \u0410\u043b\u0442\u0430\u0439 \u0441\u0433\u043e\u043d\u044f\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0435,\u0443\u0447\u0438\u0442\u0435\u043b\u044f \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u041f\u041e\u041a\u0410 \u043d\u0430 \u0448\u0430\u0433 \u0432\u043f\u0435\u0440\u0435\u0434\u0438",
+                "owner": {
+                    "id": "3062916928",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/19367490_157081971502719_3962284029809524736_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6BlAtsgoIW8AX-IZvcT&tn=r9Llk3akoFw2G0AR&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT_wu560mjKTZO9i5nyjSOgaVcHhGEhMDbg_8q2Q__1qkQ&oe=61D34E8A&_nc_sid=9fb510",
+                    "username": "polinakyri"
+                },
+                "likes_count": 1
+            }
+        ]
+    }
+]

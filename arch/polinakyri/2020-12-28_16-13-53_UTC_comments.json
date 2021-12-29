@@ -1,0 +1,41 @@
+[
+    {
+        "id": 17864192528314141,
+        "created_at": 1609174406,
+        "text": "\u0411\u0438\u041f\u043e\u043b\u0438\u043d\u043e\u0447\u043a\u0430",
+        "owner": {
+            "id": "6214483993",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/s150x150/198500584_347549123590562_2551836244647109581_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=xkMOQO-DKZUAX_ZJ6J-&tn=r9Llk3akoFw2G0AR&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT9XoJ7ZQkHj2V1extxu4UqsPe2KB2tP3LyqbOl5o4ps_w&oe=61D2F4C1&_nc_sid=9fb510",
+            "username": "smoked_misha"
+        },
+        "likes_count": 0,
+        "answers": []
+    },
+    {
+        "id": 17960586274367013,
+        "created_at": 1609172120,
+        "text": "\u0441\u0435\u0431\u0435))))))))))))))\u2764\ufe0f",
+        "owner": {
+            "id": "3062916928",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/19367490_157081971502719_3962284029809524736_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6BlAtsgoIW8AX-IZvcT&tn=r9Llk3akoFw2G0AR&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT_wu560mjKTZO9i5nyjSOgaVcHhGEhMDbg_8q2Q__1qkQ&oe=61D34E8A&_nc_sid=9fb510",
+            "username": "polinakyri"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 17889869371822491,
+                "created_at": 1609176938,
+                "text": "@polinakyri \u043b\u044e\u0434\u0438 \u0431\u0435\u0437 \u00ab\u044f\u00bb \u043f\u043e \u0446\u0435\u043d\u0442\u0440\u0443 \u0438 \u043d\u0435 \u043f\u043e\u043d\u044f\u043b\u0438 \u0431\u044b",
+                "owner": {
+                    "id": "259392777",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/s150x150/53283801_818234695207500_2841413594095026176_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=4qh3JWEM6KgAX_G3j1r&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT_pdSFpNtqkRIRljaPknl5kSu-PjK95rNy1E_LBdmQDxA&oe=61D3D3F3&_nc_sid=9fb510",
+                    "username": "pavlenkodaria"
+                },
+                "likes_count": 2
+            }
+        ]
+    }
+]
