@@ -5,12 +5,12 @@ instaloader --fast-update --login=hot_dro4illa228 e_ivettta bettty.i poqri polya
 
 
 cd ..
-python merge.py insta
 python copier.py
 git add -A
 git commit -m "update"
 git pull
 git push
+
 
 
 
