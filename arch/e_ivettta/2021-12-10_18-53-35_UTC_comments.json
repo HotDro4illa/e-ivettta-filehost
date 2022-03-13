@@ -1,0 +1,28 @@
+[
+    {
+        "id": 17927502311174919,
+        "created_at": 1647192552,
+        "text": "\u0422\u043e\u0433\u0434\u0430 \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0435\u043c \u043f\u0440\u043e\u0435\u043a\u0442",
+        "owner": {
+            "id": "4772804987",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/274479448_687125936065261_2308942571641735244_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=dJ84VaG3ng0AX9aPywn&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT9YcBHtN-7_X8NGctsCTtbt6mDd6h9HjHUdb1ikXjzelA&oe=62360CF7&_nc_sid=9fb510",
+            "username": "baka_ogo"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 18170019787206314,
+                "created_at": 1647193383,
+                "text": "@baka_ogo \u0441\u043f\u0430\u0441\u0438\u0431\u043e",
+                "owner": {
+                    "id": "1825256254",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/257542408_2992684130969532_7031322161340330546_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=uTYBTDFcOgwAX_hJwBT&edm=AMrZAGUBAAAA&ccb=7-4&oh=00_AT93YeBxsPTtSKVMgpkpa1vUBbjq8Mp_B4PCC9jnc4niDQ&oe=6235FC3F&_nc_sid=9fb510",
+                    "username": "e_ivettta"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]
