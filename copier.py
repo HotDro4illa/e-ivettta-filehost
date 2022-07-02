@@ -97,6 +97,7 @@ for directory in dirlist:
                     else:
                         comms = ""
                     if os.path.exists('arch/' + directory + "/" + "_".join(file.split(".")[0].split("_")[0:3]) + ".txt"):
+                        print('arch/' + directory + "/" + "_".join(file.split(".")[0].split("_")[0:3]) + ".txt")
                         desc = open('arch/' + directory + "/" + "_".join(file.split(".")[0].split("_")[0:3]) + ".txt", "r").read()
                     else:
                         desc = ""
