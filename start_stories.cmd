@@ -1,14 +1,13 @@
-:c
-instaloader --login=hot_dro4illa228 --fast-update --latest-stamps profile e_ivettta bettty.i --stories --highlights --tagged --igtv --no-captions --no-metadata-json --no-video-thumbnails
-python loader.py e_ivettta
-python merge.py e_ivettta
-python merge.py bettty.i
-python thumb.py
-python copier.py
+cd insta
+instaloader --fast-update --login=hot_dro4illa228 landy2006 e_ivettta bettty.i poqri polyaqurilo alyona.filatova02 --stories --highlights --tagged --igtv --no-video-thumbnails --comments --no-compress-json --geotags --max-connection-attempts 1
 
+
+cd ..
+python copier.py
 git add -A
 git commit -m "update"
+git pull
 git push
-
-timeout /t 21600
-goto c
+git reflog expire --all --expire=now
+git gc --Prune=now --aggressive
+pause

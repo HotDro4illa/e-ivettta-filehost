@@ -8,4 +8,6 @@ git add -A
 git commit -m "update"
 git pull
 git push
+git reflog expire --all --expire=now
+git gc --Prune=now --aggressive
 pause
