@@ -8,5 +8,4 @@ git add -A
 git commit -m "update"
 git pull
 git push
-git gc --prune=now --aggressive
 pause
