@@ -30,7 +30,7 @@ for directory in dirlist:
                     continue
                 if not os.path.exists(f'arch/{directory}/thumb_{filename}.jpg'):
                     if filename[-1] == "g":
-                        with Image.open(os.path.join(dirpath, filename)) as im:
+                        with Image.open(src) as im:
                             im.thumbnail(size)
                             im.save(f'arch/{directory}/thumb_{filename}.jpg', "JPEG", quality=50, optimize=True)
                             print(f'{filename} --> thumb_{filename}.jpg')
@@ -42,7 +42,22 @@ for directory in dirlist:
                 shutil.copy2(src, dst, follow_symlinks=True)
                 print('uploaded:', src)
 
-    dir_files = []
-    for dirpath, dirnames, filenames in os.walk(f'insta/{arch}'):
-        for filename in filenames:
-            dir_files.append(filename)
+    dir_result = {directory: {"feed": [], "gallery": []}}
+    post_feed = {"files": [], "json_data": "", "description": "", "comments": "", "geolocation": ""}
+    dir_all_files = [i for i in [filenames for dirpath, dirnames, filenames in os.walk(f'arch/{directory}')][0]]
+    dir_mat_files = [i for i in [filenames for dirpath, dirnames, filenames in os.walk(f'arch/{directory}')][0] if all(x not in i for x in ['thumb', 'json', 'txt', 'cover', 'profile'])]
+    dir_mat_files.sort()
+    for file in dir_mat_files:
+        if file.count('_') == 3:
+            filename = '_'.join(file.split('_')[:-1])
+            print(file, filename)
+            if filename in post_feed['files'][-1]:
+                post_feed['files'].append({"file": file, "thumbnail": f'thumb_{file}.jpg'})
+                if f'{filename}.json' in dir_all_files:
+                    post_feed['json_data'] = f'{filename}.json'
+                if f'{filename}.txt' in dir_all_files:
+                    post_feed['description'] = f'{filename}.txt'
+                if f'{filename}_comments.json' in dir_all_files:
+                    post_feed['comments'] = f'{filename}_comments.json'
+                if f'{filename}_location.txt' in dir_all_files:
+                    post_feed['geolocation'] = f'{filename}_location.txt'
