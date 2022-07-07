@@ -9,4 +9,5 @@ git add -A
 git commit -m "update"
 git pull
 git push
+taskkill /im goodbyedpi.exe
 pause
