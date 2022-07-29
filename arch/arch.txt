@@ -150,10 +150,10 @@
                                 "file_type": "image"
                             }
                         ],
-                        "json_data": "",
+                        "json_data": "2020-08-12_07-41-45_UTC.json",
                         "description": "2020-08-12_07-41-45_UTC.txt",
                         "comments": "2020-08-12_07-41-45_UTC_comments.json",
-                        "geolocation": "",
+                        "geolocation": "2020-08-12_07-41-45_UTC_location.txt",
                         "date": {
                             "year": "2020",
                             "month": "08",
@@ -414,10 +414,10 @@
                                 "file_type": "image"
                             }
                         ],
-                        "json_data": "",
+                        "json_data": "2020-10-12_18-04-45_UTC.json",
                         "description": "2020-10-12_18-04-45_UTC.txt",
                         "comments": "2020-10-12_18-04-45_UTC_comments.json",
-                        "geolocation": "",
+                        "geolocation": "2020-10-12_18-04-45_UTC_location.txt",
                         "date": {
                             "year": "2020",
                             "month": "10",
@@ -697,10 +697,10 @@
                                 "file_type": "image"
                             }
                         ],
-                        "json_data": "",
+                        "json_data": "2021-06-30_12-48-35_UTC.json",
                         "description": "",
                         "comments": "",
-                        "geolocation": "",
+                        "geolocation": "2021-06-30_12-48-35_UTC_location.txt",
                         "date": {
                             "year": "2021",
                             "month": "06",
@@ -718,10 +718,10 @@
                                 "file_type": "image"
                             }
                         ],
-                        "json_data": "",
+                        "json_data": "2021-07-04_08-49-07_UTC.json",
                         "description": "",
                         "comments": "2021-07-04_08-49-07_UTC_comments.json",
-                        "geolocation": "",
+                        "geolocation": "2021-07-04_08-49-07_UTC_location.txt",
                         "date": {
                             "year": "2021",
                             "month": "07",
@@ -20900,10 +20900,10 @@
                                 "file_type": "video"
                             }
                         ],
-                        "json_data": "",
+                        "json_data": "2021-07-25_17-34-05_UTC.json",
                         "description": "2021-07-25_17-34-05_UTC.txt",
                         "comments": "",
-                        "geolocation": "",
+                        "geolocation": "2021-07-25_17-34-05_UTC_location.txt",
                         "date": {
                             "year": "2021",
                             "month": "07",
@@ -21160,10 +21160,10 @@
                                 "file_type": "image"
                             }
                         ],
-                        "json_data": "",
+                        "json_data": "2021-08-08_16-45-09_UTC.json",
                         "description": "2021-08-08_16-45-09_UTC.txt",
-                        "comments": "",
-                        "geolocation": "",
+                        "comments": "2021-08-08_16-45-09_UTC_comments.json",
+                        "geolocation": "2021-08-08_16-45-09_UTC_location.txt",
                         "date": {
                             "year": "2021",
                             "month": "08",
