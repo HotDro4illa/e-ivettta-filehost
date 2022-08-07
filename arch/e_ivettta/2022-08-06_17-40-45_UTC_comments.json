@@ -1,0 +1,67 @@
+[
+    {
+        "id": 17935349567354710,
+        "created_at": 1659809734,
+        "text": "\u0428\u0438\u043a\u0430\u0440\u043d\u0430\u044f \u0436\u0435\u043d\u0449\u0438\u043d\u0430",
+        "owner": {
+            "id": "1825256254",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/257542408_2992684130969532_7031322161340330546_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=Fzb_hT4CPGcAX8ZOg4x&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT8BS2sFkUPQi_pFBBgC4ZnP2ATAo2PEIvPRCYptzyrXlQ&oe=62F7C8BF&_nc_sid=9fb510",
+            "username": "e_ivettta"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 17944568480162556,
+                "created_at": 1659818032,
+                "text": "@e_ivettta \u0435\u0441\u0441\u0441\ud83e\udd70",
+                "owner": {
+                    "id": "3044688309",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/42003221_1929142373838529_2416374572396838912_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=il8_Z8tnSqQAX8Zd-ma&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT8FIUCPTrkagG7cFQcoo4MrkilKJQg1guCDA0dyUZ-iJA&oe=62F6F354&_nc_sid=9fb510",
+                    "username": "al_la.590"
+                },
+                "likes_count": 0
+            }
+        ]
+    },
+    {
+        "id": 18018964507411846,
+        "created_at": 1659809435,
+        "text": "\ud83d\ude0d\ud83d\udd25\ud83d\udd25",
+        "owner": {
+            "id": "1450496465",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/297353954_580782150337741_4163296206626518034_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=xHsSWwl-m9cAX8p9K9O&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT-O-hdYMtnqVIxouOtVpax95ibSwZS9_QILU7PLRXUMZg&oe=62F64C3F&_nc_sid=9fb510",
+            "username": "alina.iva"
+        },
+        "likes_count": 1,
+        "answers": []
+    },
+    {
+        "id": 18148342768256877,
+        "created_at": 1659808902,
+        "text": "\u041d\u0443 \u0442\u0438 \u0438 \u041a\u0440\u0430\u0441\u043e\u043e\u043e\u0442\u043a\u0430\ud83d\udc97!",
+        "owner": {
+            "id": "2300151654",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/294186122_5461081667283047_2361234261654020884_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=c7zGtMxE7gQAX9RphW7&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT-4mg866tHGphnn0WzEOvtgojPwLZjcy_fwICy-fD2Nag&oe=62F742FA&_nc_sid=9fb510",
+            "username": "oliaskliarenko"
+        },
+        "likes_count": 0,
+        "answers": [
+            {
+                "id": 18237942058184005,
+                "created_at": 1659818014,
+                "text": "@oliaskliarenko \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u2764\ufe0f",
+                "owner": {
+                    "id": "3044688309",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/42003221_1929142373838529_2416374572396838912_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=il8_Z8tnSqQAX8Zd-ma&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT8FIUCPTrkagG7cFQcoo4MrkilKJQg1guCDA0dyUZ-iJA&oe=62F6F354&_nc_sid=9fb510",
+                    "username": "al_la.590"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+{
+    "instaloader": {
+        "node_type": "StoryItem",
+        "version": "4.9.2"
+    },
+    "node": {
+        "__typename": "GraphStoryImage",
+        "audience": "MediaAudience.DEFAULT",
+        "dimensions": {
+            "height": 1920,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/297679806_596452415224460_2753554248797074081_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=Dk-YSzliREAAX9hEhuu&edm=AHlfZHwBAAAA&ccb=7-5&oh=00_AT_9khTt2q95gThpuV_M1O4KupfNUJ6rKLMz-yDqpK5UCA&oe=62F68B8B&_nc_sid=21929d"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/297679806_596452415224460_2753554248797074081_n.jpg?stp=dst-jpg_e35_p750x750_sh0.08&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=Dk-YSzliREAAX9hEhuu&edm=AHlfZHwBAAAA&ccb=7-5&oh=00_AT8kDEkNXjepdmuDRSnzi1Hjt2_MZATG8AjldhzNgFtBvA&oe=62F68B8B&_nc_sid=21929d"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/297679806_596452415224460_2753554248797074081_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=Dk-YSzliREAAX9hEhuu&edm=AHlfZHwBAAAA&ccb=7-5&oh=00_AT80gP2wfpAHxoMwZianay805YgJoyop9BDKqUI0mziZag&oe=62F68B8B&_nc_sid=21929d"
+            }
+        ],
+        "display_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/297679806_596452415224460_2753554248797074081_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=108&_nc_ohc=Dk-YSzliREAAX9hEhuu&edm=AHlfZHwBAAAA&ccb=7-5&oh=00_AT99PD59Ss6NGslhr7bEqBWLI-JVQl9xN16xBJ2-Z2S9mQ&oe=62F1EE4B&_nc_sid=21929d",
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "expiring_at_timestamp": 1659973980,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "id": "2899669668696657284",
+        "is_video": false,
+        "media_overlay_info": null,
+        "media_preview": "ABgqlooCE1IErpMSOipHXAFFICZGQLk9QKyNNnJkYEHa7FieuM54/wDr+1SFWJOD+h/xqvDujOG+UHv3z/npWLuaxtqbVwVwMetFUUJPU5HbrRVrYlj6TFLRSGFFFFAH/9k=",
+        "muting_info": null,
+        "owner": {
+            "followed_by_viewer": true,
+            "id": "1825256254",
+            "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/257542408_2992684130969532_7031322161340330546_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=100&_nc_ohc=Fzb_hT4CPGcAX8ZOg4x&edm=AHlfZHwBAAAA&ccb=7-5&oh=00_AT9QPSiFbAJhWjWNob-m2Q86Rpc0soTtDkJp-7hG_rMKeQ&oe=62F7C8BF&_nc_sid=21929d",
+            "requested_by_viewer": false,
+            "username": "e_ivettta"
+        },
+        "sensitivity_friction_info": null,
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "story_app_attribution": null,
+        "story_cta_url": null,
+        "story_view_count": null,
+        "taken_at_timestamp": 1659887580,
+        "tappable_objects": [
+            {
+                "__typename": "GraphTappableFeedMedia",
+                "attribution": null,
+                "custom_title": null,
+                "height": 0.6777539037152831,
+                "media": {
+                    "id": "2899664843686737728",
+                    "shortcode": "Cg9rc_vovdA"
+                },
+                "rotation": 0.0,
+                "width": 0.8084177329986141,
+                "x": 0.44762202378297405,
+                "y": 0.49956690446329705
+            }
+        ],
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTE0NTVlOGNkZGEzNDFmMmI0NWY5OWE0MzA2MDhlNTYyODk5NjY5NjY4Njk2NjU3Mjg0Iiwic2VydmVyX3Rva2VuIjoiMTY1OTg5MDQ1OTQyN3wyODk5NjY5NjY4Njk2NjU3Mjg0fDE2NDU4NDc1MTZ8ZDMzZGZkNDdiNjlhNDU1MjlmNDUwNGQ0ZDZjMDlkMDE2ZmI4ODZjNTc1M2IyOWRjYzcxYzgwNWI4MjlhZTU4MSJ9LCJzaWduYXR1cmUiOiIifQ=="
+    }
+}

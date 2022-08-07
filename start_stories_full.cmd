@@ -6,7 +6,7 @@ instaloader --login=hot_dro4illa228 landy2006 e_ivettta bettty.i poqri polyaquri
 cd ..
 python copier.py
 git add -A
-git commit -m "update"
+git commit -m "comment update"
 git pull
 git push
 pause
