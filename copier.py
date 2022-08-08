@@ -87,13 +87,34 @@ for directory in dirlist:
         post_feed['date']['minute'] = minute
         post_feed['date']['second'] = second
         if f'{filename}.json' in dir_all_files:
-            post_feed['json_data'] = f'{filename}.json'
+            with open(f'arch/{directory}/{filename}.json', 'r') as f:
+                f = json.load(f)
+                try:
+                    f["node"].pop('edge_sidecar_to_children')
+                except:
+                    pass
+                try:
+                    f["node"]["owner"].pop('iphone_struct')
+                except:
+                    pass
+                try:
+                    f["node"].pop('thumbnail_resources')
+                except:
+                    pass
+                try:
+                    f["node"].pop('display_resources')
+                except:
+                    pass
+                post_feed['json_data'] = f
         if f'{filename}.txt' in dir_all_files:
-            post_feed['description'] = f'{filename}.txt'
+            with open(f'arch/{directory}/{filename}.txt', 'r', encoding='utf-8') as f:
+                post_feed['description'] = f.read()
         if f'{filename}_comments.json' in dir_all_files:
-            post_feed['comments'] = f'{filename}_comments.json'
+            with open(f'arch/{directory}/{filename}_comments.json', 'r') as f:
+                post_feed['comments'] = json.load(f)
         if f'{filename}_location.txt' in dir_all_files:
-            post_feed['geolocation'] = f'{filename}_location.txt'
+            with open(f'arch/{directory}/{filename}_location.txt', 'r', encoding='utf-8') as f:
+                post_feed['geolocation'] = f.read()
         dir_result[directory]["feed"].append(post_feed)
 
     videos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split(".")[0].split('_')[0].split('-')[0], "month":i.split(".")[0].split('_')[0].split('-')[1], "day":i.split(".")[0].split('_')[0].split('-')[2], "hour":i.split(".")[0].split('_')[1].split('-')[0], "minute":i.split(".")[0].split('_')[1].split('-')[1], "second":i.split(".")[0].split('_')[1].split('-')[2]}} for i in dir_mat_files if 'mp4' in i]
