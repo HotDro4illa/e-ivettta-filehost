@@ -96,9 +96,9 @@ for directory in dirlist:
             post_feed['geolocation'] = f'{filename}_location.txt'
         dir_result[directory]["feed"].append(post_feed)
 
-    videos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split('_')[0].split('-')[0], "month":i.split('_')[0].split('-')[1], "day":i.split('_')[0].split('-')[2], "hour":i.split('_')[1].split('-')[0], "minute":i.split('_')[1].split('-')[1], "second":i.split('_')[1].split('-')[2]}} for i in dir_mat_files if 'mp4' in i]
-    photos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split('_')[0].split('-')[0], "month":i.split('_')[0].split('-')[1], "day":i.split('_')[0].split('-')[2], "hour":i.split('_')[1].split('-')[0], "minute":i.split('_')[1].split('-')[1], "second":i.split('_')[1].split('-')[2]}} for i in dir_mat_files if 'jpg' in i]
-    tiktok = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split('_')[0].split('-')[0], "month":i.split('_')[0].split('-')[1], "day":i.split('_')[0].split('-')[2], "hour":i.split('_')[1].split('-')[0], "minute":i.split('_')[1].split('-')[1], "second":i.split('_')[1].split('-')[2]}} for i in dir_all_files if 'mp4' in i and 'tiktok' in i and "thumb" not in i]
+    videos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split(".")[0].split('_')[0].split('-')[0], "month":i.split(".")[0].split('_')[0].split('-')[1], "day":i.split(".")[0].split('_')[0].split('-')[2], "hour":i.split(".")[0].split('_')[1].split('-')[0], "minute":i.split(".")[0].split('_')[1].split('-')[1], "second":i.split(".")[0].split('_')[1].split('-')[2]}} for i in dir_mat_files if 'mp4' in i]
+    photos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split(".")[0].split('_')[0].split('-')[0], "month":i.split(".")[0].split('_')[0].split('-')[1], "day":i.split(".")[0].split('_')[0].split('-')[2], "hour":i.split(".")[0].split('_')[1].split('-')[0], "minute":i.split(".")[0].split('_')[1].split('-')[1], "second":i.split(".")[0].split('_')[1].split('-')[2]}} for i in dir_mat_files if 'jpg' in i]
+    tiktok = [{"file": i, "thumbnail": f'thumb_{i}.jpg'} for i in dir_all_files if 'mp4' in i and 'tiktok' in i and "thumb" not in i]
     dir_result[directory]["gallery"].append({"videos": videos, "photos": photos, "tiktok": tiktok})
     arch["accs"].append(dir_result)
 json.dump(arch, f_arch, indent=4)
