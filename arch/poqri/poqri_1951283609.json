@@ -1,7 +1,7 @@
 {
     "instaloader": {
         "node_type": "Profile",
-        "version": "4.9.2"
+        "version": "4.9.3"
     },
     "node": {
         "bio_links": [],
@@ -36,6 +36,7 @@
         "followed_by_viewer": false,
         "follows_viewer": false,
         "full_name": "Polina Alekseevna",
+        "group_metadata": null,
         "guardian_id": null,
         "has_ar_effects": false,
         "has_blocked_viewer": false,
@@ -57,6 +58,7 @@
                 "raw_text": "\u041f\u0440\u0438\u0433\u043b\u0430\u0448\u0430\u044e \u0440\u0430\u0437\u0434\u0435\u043b\u0438\u0442\u044c \u044e\u043c\u043e\u0440 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438"
             },
             "can_add_fb_group_link_on_profile": false,
+            "chaining_results": null,
             "external_url": "",
             "fan_club_info": {
                 "fan_club_id": null,
@@ -68,20 +70,17 @@
             "following_tag_count": 0,
             "full_name": "Polina Alekseevna",
             "geo_media_count": 0,
-            "growth_friction_info": {
-                "has_active_interventions": false,
-                "interventions": {}
-            },
             "has_anonymous_profile_picture": false,
             "has_biography_translation": true,
             "has_chaining": true,
             "has_exclusive_feed_content": false,
+            "has_fan_club_subscriptions": false,
             "has_guides": false,
             "has_highlight_reels": false,
             "has_videos": false,
             "hd_profile_pic_url_info": {
                 "height": 150,
-                "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=zKAAPJBT8lUAX9JXw-h&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT_Q3xwx1jvT2qJI5EmfyvGg8PWw77exgJU4gklPx-VhbA&oe=62CB9C5E&_nc_sid=a9513d",
+                "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9S-3QlVIPMf0ahmLxvKDBl_Rps7DbxOzx53Y4LscNKlQ&oe=62FD0C9E&_nc_sid=a9513d",
                 "width": 150
             },
             "highlight_reshare_disabled": false,
@@ -111,9 +110,10 @@
             "profile_context": "",
             "profile_context_facepile_users": [],
             "profile_context_links_with_user_ids": [],
-            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=zKAAPJBT8lUAX9JXw-h&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT_Q3xwx1jvT2qJI5EmfyvGg8PWw77exgJU4gklPx-VhbA&oe=62CB9C5E&_nc_sid=a9513d",
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9S-3QlVIPMf0ahmLxvKDBl_Rps7DbxOzx53Y4LscNKlQ&oe=62FD0C9E&_nc_sid=a9513d",
             "remove_message_entrypoint": false,
             "request_contact_enabled": false,
+            "robi_feedback_source": null,
             "show_account_transparency_details": false,
             "show_fb_link_on_profile": false,
             "show_post_insights_entry_point": true,
@@ -134,9 +134,10 @@
         "is_supervised_user": false,
         "is_supervision_enabled": false,
         "is_verified": false,
+        "location_transparency_country": null,
         "overall_category_name": null,
-        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=zKAAPJBT8lUAX9JXw-h&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8n0dM4SLOgPvdL-yaP9gaFQq_3Nqiq6UF7tY2FPTGRQA&oe=62CB9C5E&_nc_sid=8fd12b",
-        "profile_pic_url_hd": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=zKAAPJBT8lUAX9JXw-h&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8n0dM4SLOgPvdL-yaP9gaFQq_3Nqiq6UF7tY2FPTGRQA&oe=62CB9C5E&_nc_sid=8fd12b",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8i4W2mAfstMG97iOhr-sVV2Td2BrY8s9dyPnfL5cBZwA&oe=62FD0C9E&_nc_sid=8fd12b",
+        "profile_pic_url_hd": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8i4W2mAfstMG97iOhr-sVV2Td2BrY8s9dyPnfL5cBZwA&oe=62FD0C9E&_nc_sid=8fd12b",
         "pronouns": [],
         "requested_by_viewer": false,
         "restricted_by_viewer": false,

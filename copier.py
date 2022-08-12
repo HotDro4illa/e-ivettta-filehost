@@ -38,7 +38,9 @@ for directory in dirlist:
                             print(f'{filename} --> thumb_{filename}.jpg')
                 if not os.path.exists(f'arch/{directory}/thumb_{filename}.jpg'):
                     if filename[-1] == "4":
-                        os.system(f'ffmpeg -ss 00:00:01.000 -i "{src}" -loglevel quiet -n -vframes 1 "arch/{directory}/thumb_{filename}.jpg"')
+                        os.system(f'ffmpeg -ss 0 -t 3 -i "{src}" -y -loglevel quiet -vf "fps=10,scale=-1:ih/5:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 "arch/{directory}/thumb_{filename}.gif"')
+                        print(f'{filename} --> thumb_{filename}.gif')
+                        os.system(f'ffmpeg -ss 0 -i "{src}" -loglevel quiet -n -vframes 1 "arch/{directory}/thumb_{filename}.jpg"')
                         print(f'{filename} --> thumb_{filename}.jpg')
                 dst = f'arch/{directory}/{filename}'
                 shutil.copy2(src, dst, follow_symlinks=True)
@@ -117,7 +119,7 @@ for directory in dirlist:
                 post_feed['geolocation'] = f.read()
         dir_result[directory]["feed"].append(post_feed)
 
-    videos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split(".")[0].split('_')[0].split('-')[0], "month":i.split(".")[0].split('_')[0].split('-')[1], "day":i.split(".")[0].split('_')[0].split('-')[2], "hour":i.split(".")[0].split('_')[1].split('-')[0], "minute":i.split(".")[0].split('_')[1].split('-')[1], "second":i.split(".")[0].split('_')[1].split('-')[2]}} for i in dir_mat_files if 'mp4' in i]
+    videos = [{"file": i, "thumbnail_jpg": f'thumb_{i}.jpg', "thumbnail_gif": f'thumb_{i}.gif', "date": {"year": i.split(".")[0].split('_')[0].split('-')[0], "month":i.split(".")[0].split('_')[0].split('-')[1], "day":i.split(".")[0].split('_')[0].split('-')[2], "hour":i.split(".")[0].split('_')[1].split('-')[0], "minute":i.split(".")[0].split('_')[1].split('-')[1], "second":i.split(".")[0].split('_')[1].split('-')[2]}} for i in dir_mat_files if 'mp4' in i]
     photos = [{"file": i, "thumbnail": f'thumb_{i}.jpg', "date": {"year": i.split(".")[0].split('_')[0].split('-')[0], "month":i.split(".")[0].split('_')[0].split('-')[1], "day":i.split(".")[0].split('_')[0].split('-')[2], "hour":i.split(".")[0].split('_')[1].split('-')[0], "minute":i.split(".")[0].split('_')[1].split('-')[1], "second":i.split(".")[0].split('_')[1].split('-')[2]}} for i in dir_mat_files if 'jpg' in i]
     tiktok = [{"file": i, "thumbnail": f'thumb_{i}.jpg'} for i in dir_all_files if 'mp4' in i and 'tiktok' in i and "thumb" not in i]
     videos.reverse()
