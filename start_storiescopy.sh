@@ -5,3 +5,7 @@ instaloader --fast-update --login=hot_dro4illa228 e_ivettta --stories --highligh
 
 cd ..
 python copier.py
+git add -A
+git commit -m "update"
+git pull
+git push
