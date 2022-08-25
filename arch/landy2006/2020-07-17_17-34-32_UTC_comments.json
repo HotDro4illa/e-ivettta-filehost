@@ -1,0 +1,28 @@
+[
+    {
+        "id": 18110196355147140,
+        "created_at": 1595009580,
+        "text": "\u0411\u0435\u0441\u0438\u0448\u044c \u0441\u0432\u043e\u0438\u043c\u0438 \u0444\u043e\u0442\u043a\u0430\u043c\u0438\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "owner": {
+            "id": "1318982959",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/73505118_613022706192226_3553989548000149504_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=GtgJ_IPnDTIAX_SLDaH&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT87UpXGl1M1mnh8KrlXYecqcU-w6TyQOC5mnREHhdNMiA&oe=630DE388&_nc_sid=9fb510",
+            "username": "dashko_17"
+        },
+        "likes_count": 1,
+        "answers": [
+            {
+                "id": 17930845687395839,
+                "created_at": 1595010854,
+                "text": "@dashko_17 \u043b\u0443\u0447\u0448\u0435 \u043f\u0440\u0438\u0435\u0437\u0436\u0430\u0439\u0442\u0435 \u043a \u043d\u0430\u043c!\u2764\ufe0f",
+                "owner": {
+                    "id": "223879260",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/292372317_1010574686306717_6485218709629349320_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=YjF5jNJUw6cAX8xfZ5S&tn=o2nNn9qJOWFntl2n&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT-SnnXE8_KkayTI6SZ8D0afYueaiX_3rPhAlfx9Sy1F7Q&oe=630DC2F9&_nc_sid=9fb510",
+                    "username": "landy2006"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]

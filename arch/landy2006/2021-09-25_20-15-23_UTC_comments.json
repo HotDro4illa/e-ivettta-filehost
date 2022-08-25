@@ -1,0 +1,28 @@
+[
+    {
+        "id": 17902191305327780,
+        "created_at": 1633976415,
+        "text": "\u0417\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u043a \u043d\u0430\u043c\ud83d\udd25\u0436\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u0443\u0432\u044c \u0432\u0441\u0435\u0445 \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u0432 \u0438 \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c \ud83d\udd25",
+        "owner": {
+            "id": "8626216672",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/274129833_494752452000361_3212187920052103427_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=0ZAQ5z_y98wAX-Cu-Dl&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT8QK6S5OY-rdUL6yM9Vbva2zB-ZdzEG6fVO_m2dxOBVdQ&oe=630EA44E&_nc_sid=9fb510",
+            "username": "margoz_shoes"
+        },
+        "likes_count": 0,
+        "answers": []
+    },
+    {
+        "id": 17912332579954518,
+        "created_at": 1632647960,
+        "text": "\ud83d\udd25",
+        "owner": {
+            "id": "4335874107",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/272950984_453298099856507_3482208864849676542_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=RMFHDgeEbIMAX8jhR4Y&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT9qA-UnxC0MxkEruFqbo_BuDLcPls82AsIrtzzASgelNw&oe=630D50B5&_nc_sid=9fb510",
+            "username": "mr.knowhere_"
+        },
+        "likes_count": 1,
+        "answers": []
+    }
+]
