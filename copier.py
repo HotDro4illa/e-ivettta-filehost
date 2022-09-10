@@ -20,29 +20,29 @@ for directory in dirlist:
         pass
 
     for dirpath, dirnames, filenames in os.walk(f'insta/{directory}'):
-        for filename in filenames:
-            src = os.path.join(dirpath, filename)
-            if not os.path.exists(f'arch/{directory}/{filename}'):
-                if any(x in filename for x in ['id', 'list.json', 'cover', 'thumb']):
+        for file_name in filenames:
+            src = os.path.join(dirpath, file_name)
+            if (not os.path.exists(f'arch/{directory}/{file_name}')) or (os.path.getsize(src) != os.path.getsize(f'arch/{directory}/{file_name}' if 'profile_pic' not in file_name else False)):
+                if any(x in file_name for x in ['id', 'cover', 'thumb']):
                     continue
-                if "profile_pic" in filename:
+                if "profile_pic" in file_name:
                     dst = f'arch/{directory}/profile_pic.jpg'
                     shutil.copy2(src, dst, follow_symlinks=True)
                     print('uploaded:', src)
                     continue
-                if not os.path.exists(f'arch/{directory}/thumb_{filename}.jpg'):
-                    if filename[-1] == "g":
+                if not os.path.exists(f'arch/{directory}/thumb_{file_name}.jpg'):
+                    if file_name[-1] == "g":
                         with Image.open(src) as im:
                             im.thumbnail(size)
-                            im.save(f'arch/{directory}/thumb_{filename}.jpg', "JPEG", quality=50, optimize=True)
-                            print(f'{filename} --> thumb_{filename}.jpg')
-                if not os.path.exists(f'arch/{directory}/thumb_{filename}.jpg'):
-                    if filename[-1] == "4":
-                        os.system(f'ffmpeg -ss 0 -t 3 -i "{src}" -y -loglevel quiet -vf "fps=10,scale=-1:ih/5:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 "arch/{directory}/thumb_{filename}.gif"')
-                        print(f'{filename} --> thumb_{filename}.gif')
-                        os.system(f'ffmpeg -ss 0 -i "{src}" -loglevel quiet -n -vframes 1 "arch/{directory}/thumb_{filename}.jpg"')
-                        print(f'{filename} --> thumb_{filename}.jpg')
-                dst = f'arch/{directory}/{filename}'
+                            im.save(f'arch/{directory}/thumb_{file_name}.jpg', "JPEG", quality=50, optimize=True)
+                            print(f'{file_name} --> thumb_{file_name}.jpg')
+                if not os.path.exists(f'arch/{directory}/thumb_{file_name}.jpg'):
+                    if file_name[-1] == "4":
+                        os.system(f'ffmpeg -ss 0 -t 3 -i "{src}" -y -loglevel quiet -vf "fps=10,scale=-1:ih/5:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 "arch/{directory}/thumb_{file_name}.gif"')
+                        print(f'{file_name} --> thumb_{file_name}.gif')
+                        os.system(f'ffmpeg -ss 0 -i "{src}" -loglevel quiet -n -vframes 1 "arch/{directory}/thumb_{file_name}.jpg"')
+                        print(f'{file_name} --> thumb_{file_name}.jpg')
+                dst = f'arch/{directory}/{file_name}'
                 shutil.copy2(src, dst, follow_symlinks=True)
                 print('uploaded:', src)
 

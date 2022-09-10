@@ -24,7 +24,7 @@
             "count": 56
         },
         "edge_followed_by": {
-            "count": 27
+            "count": 26
         },
         "edge_mutual_followed_by": {
             "count": 0,
@@ -65,7 +65,7 @@
                 "fan_club_name": null
             },
             "follow_friction_type": 0,
-            "follower_count": 27,
+            "follower_count": 26,
             "following_count": 56,
             "following_tag_count": 0,
             "full_name": "Polina Alekseevna",
@@ -77,10 +77,11 @@
             "has_fan_club_subscriptions": false,
             "has_guides": false,
             "has_highlight_reels": false,
+            "has_public_tab_threads": true,
             "has_videos": false,
             "hd_profile_pic_url_info": {
                 "height": 150,
-                "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9S-3QlVIPMf0ahmLxvKDBl_Rps7DbxOzx53Y4LscNKlQ&oe=62FD0C9E&_nc_sid=a9513d",
+                "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT-36TGPPEbQvW1L2WbLh6-oQB6s4ypxd21tFvmJ3a4LRQ&oe=6324999E&_nc_sid=a9513d",
                 "width": 150
             },
             "highlight_reshare_disabled": false,
@@ -110,7 +111,7 @@
             "profile_context": "",
             "profile_context_facepile_users": [],
             "profile_context_links_with_user_ids": [],
-            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9S-3QlVIPMf0ahmLxvKDBl_Rps7DbxOzx53Y4LscNKlQ&oe=62FD0C9E&_nc_sid=a9513d",
+            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT-36TGPPEbQvW1L2WbLh6-oQB6s4ypxd21tFvmJ3a4LRQ&oe=6324999E&_nc_sid=a9513d",
             "remove_message_entrypoint": false,
             "request_contact_enabled": false,
             "robi_feedback_source": null,
@@ -136,8 +137,8 @@
         "is_verified": false,
         "location_transparency_country": null,
         "overall_category_name": null,
-        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8i4W2mAfstMG97iOhr-sVV2Td2BrY8s9dyPnfL5cBZwA&oe=62FD0C9E&_nc_sid=8fd12b",
-        "profile_pic_url_hd": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=GHsxJksupM8AX90kI9V&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8i4W2mAfstMG97iOhr-sVV2Td2BrY8s9dyPnfL5cBZwA&oe=62FD0C9E&_nc_sid=8fd12b",
+        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_S-pMJuGFUcVAVLhBd--l-EED1C0gMWZHGerWsS6Trlg&oe=6324999E&_nc_sid=8fd12b",
+        "profile_pic_url_hd": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_S-pMJuGFUcVAVLhBd--l-EED1C0gMWZHGerWsS6Trlg&oe=6324999E&_nc_sid=8fd12b",
         "pronouns": [],
         "requested_by_viewer": false,
         "restricted_by_viewer": false,
