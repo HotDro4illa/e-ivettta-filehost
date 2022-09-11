@@ -22,7 +22,7 @@ for directory in dirlist:
     for dirpath, dirnames, filenames in os.walk(f'insta/{directory}'):
         for file_name in filenames:
             src = os.path.join(dirpath, file_name)
-            if (not os.path.exists(f'arch/{directory}/{file_name}')) or (os.path.getsize(src) != os.path.getsize(f'arch/{directory}/{file_name}' if 'profile_pic' not in file_name else False)):
+            if (not os.path.exists(f'arch/{directory}/{file_name}')) or (os.path.getsize(src) > os.path.getsize(f'arch/{directory}/{file_name}' if 'profile_pic' not in file_name else False)):
                 if any(x in file_name for x in ['id', 'cover', 'thumb']):
                     continue
                 if "profile_pic" in file_name:
