@@ -59,10 +59,12 @@
             },
             "can_add_fb_group_link_on_profile": false,
             "chaining_results": null,
+            "existing_user_age_collection_enabled": true,
             "external_url": "",
             "fan_club_info": {
                 "fan_club_id": null,
-                "fan_club_name": null
+                "fan_club_name": null,
+                "is_fan_club_referral_eligible": null
             },
             "follow_friction_type": 0,
             "follower_count": 26,
@@ -81,7 +83,7 @@
             "has_videos": false,
             "hd_profile_pic_url_info": {
                 "height": 150,
-                "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT-36TGPPEbQvW1L2WbLh6-oQB6s4ypxd21tFvmJ3a4LRQ&oe=6324999E&_nc_sid=a9513d",
+                "url": "https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ApK0TZldSRYAX8zmiHo&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT_VuVlrunukiuRPXhZJVIPLCAPRYJ5ITRj7bfY6k2DSTw&oe=633C549E&_nc_sid=a9513d",
                 "width": 150
             },
             "highlight_reshare_disabled": false,
@@ -90,6 +92,7 @@
             "is_bestie": false,
             "is_business": false,
             "is_call_to_action_enabled": null,
+            "is_category_tappable": false,
             "is_favorite": false,
             "is_favorite_for_highlights": false,
             "is_favorite_for_igtv": false,
@@ -111,7 +114,7 @@
             "profile_context": "",
             "profile_context_facepile_users": [],
             "profile_context_links_with_user_ids": [],
-            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT-36TGPPEbQvW1L2WbLh6-oQB6s4ypxd21tFvmJ3a4LRQ&oe=6324999E&_nc_sid=a9513d",
+            "profile_pic_url": "https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ApK0TZldSRYAX8zmiHo&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT_VuVlrunukiuRPXhZJVIPLCAPRYJ5ITRj7bfY6k2DSTw&oe=633C549E&_nc_sid=a9513d",
             "remove_message_entrypoint": false,
             "request_contact_enabled": false,
             "robi_feedback_source": null,
@@ -137,8 +140,8 @@
         "is_verified": false,
         "location_transparency_country": null,
         "overall_category_name": null,
-        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_S-pMJuGFUcVAVLhBd--l-EED1C0gMWZHGerWsS6Trlg&oe=6324999E&_nc_sid=8fd12b",
-        "profile_pic_url_hd": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=EBymb1igLowAX_9Ql9F&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_S-pMJuGFUcVAVLhBd--l-EED1C0gMWZHGerWsS6Trlg&oe=6324999E&_nc_sid=8fd12b",
+        "profile_pic_url": "https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ApK0TZldSRYAX8zmiHo&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-wr2THwCnNCN6Z2KMSfcZO0ti9tPXVrofzGZm1SzBa6w&oe=633C549E&_nc_sid=8fd12b",
+        "profile_pic_url_hd": "https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ApK0TZldSRYAX8zmiHo&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-wr2THwCnNCN6Z2KMSfcZO0ti9tPXVrofzGZm1SzBa6w&oe=633C549E&_nc_sid=8fd12b",
         "pronouns": [],
         "requested_by_viewer": false,
         "restricted_by_viewer": false,
