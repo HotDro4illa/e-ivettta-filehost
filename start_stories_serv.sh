@@ -10,5 +10,6 @@ python copier.py
 git add -A
 git commit -m "update"
 git push
+echo "Done"
 sleep 43200
 done
