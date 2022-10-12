@@ -1,0 +1,28 @@
+[
+    {
+        "id": 17955789566117977,
+        "created_at": 1665254225,
+        "text": "\u041a\u0430\u043a\u0438\u0435 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0435 \u0434\u0435\u0432\u0443\u0448\u043a\u0438\u2764\ufe0f",
+        "owner": {
+            "id": "14090028245",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/306441316_1274813976607277_1609735246304355480_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=105&_nc_ohc=poSEHkDx0N0AX-fbUUM&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT8Y5hnS7UUmkp4PWEdvhAoBsQA4WoeCeh5hSKW4DHtDKg&oe=634EF3E3&_nc_sid=9fb510",
+            "username": "alyona.filatova02"
+        },
+        "likes_count": 1,
+        "answers": [
+            {
+                "id": 17955163652306859,
+                "created_at": 1665254263,
+                "text": "@alyona.filatova02 \u0438 \u043f\u0440\u0430\u0432\u0434\u0430\ud83d\ude0a",
+                "owner": {
+                    "id": "4072866708",
+                    "is_verified": false,
+                    "profile_pic_url": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/309068188_598134225371067_1419218809077814250_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ZajR6irnpW0AX-W1NEI&edm=AMrZAGUBAAAA&ccb=7-5&oh=00_AT_S6iEnx1_aA7hOQd5Np4tqVrv2FVHlY9waxVeHya-ZMw&oe=634D7481&_nc_sid=9fb510",
+                    "username": "polino4ka_006"
+                },
+                "likes_count": 0
+            }
+        ]
+    }
+]

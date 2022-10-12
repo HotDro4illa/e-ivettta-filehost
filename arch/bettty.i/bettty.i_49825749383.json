@@ -1,7 +1,7 @@
 {
     "instaloader": {
         "node_type": "Profile",
-        "version": "4.9.3"
+        "version": "4.9.5"
     },
     "node": {
         "bio_links": [],
@@ -73,10 +73,12 @@
             },
             "can_add_fb_group_link_on_profile": false,
             "chaining_results": null,
+            "existing_user_age_collection_enabled": true,
             "external_url": "",
             "fan_club_info": {
                 "fan_club_id": null,
-                "fan_club_name": null
+                "fan_club_name": null,
+                "is_fan_club_referral_eligible": null
             },
             "follow_friction_type": 0,
             "follower_count": 36,
@@ -91,22 +93,23 @@
             "has_fan_club_subscriptions": false,
             "has_guides": false,
             "has_highlight_reels": true,
+            "has_music_on_profile": false,
             "has_public_tab_threads": true,
             "has_videos": false,
             "hd_profile_pic_url_info": {
                 "height": 1080,
-                "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VNoqSBkbg84AX_RywCS&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT8triSUZ6ghIojquoFKkXdk_SZWNQRG43hXhy6upcCRaA&oe=632493F0&_nc_sid=a9513d",
+                "url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=S7qjlHOp__0AX-EN5Lj&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9GXOQXRGd9wD_y27kViv5fOj26OcJ-XwLawkd-OAwgjQ&oe=634E1B30&_nc_sid=a9513d",
                 "width": 1080
             },
             "hd_profile_pic_versions": [
                 {
                     "height": 320,
-                    "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VNoqSBkbg84AX_RywCS&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT8DWEJritMBngx7I-jOcInqHhQAX78D4ts14V_dJD1DYg&oe=632493F0&_nc_sid=a9513d",
+                    "url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=S7qjlHOp__0AX-EN5Lj&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9mrrMavyqR4I9LDVdk6mFm_881K_q0KC932lb-7lzcTg&oe=634E1B30&_nc_sid=a9513d",
                     "width": 320
                 },
                 {
                     "height": 640,
-                    "url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s640x640&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VNoqSBkbg84AX_RywCS&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT98jkxWPH1w1ixo2HC87j-4mbIzU4ZY7jdDxS6mB7MUGw&oe=632493F0&_nc_sid=a9513d",
+                    "url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s640x640&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=S7qjlHOp__0AX-EN5Lj&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT_kf1CVCqSVL1IOwv1Y7gMGxz3_Kt_n3SOhfKpBoobAbQ&oe=634E1B30&_nc_sid=a9513d",
                     "width": 640
                 }
             ],
@@ -116,6 +119,7 @@
             "is_bestie": false,
             "is_business": false,
             "is_call_to_action_enabled": null,
+            "is_category_tappable": false,
             "is_favorite": false,
             "is_favorite_for_highlights": false,
             "is_favorite_for_igtv": false,
@@ -134,7 +138,7 @@
             "primary_profile_link_type": 0,
             "professional_conversion_suggested_account_type": 2,
             "profile_pic_id": "2687275499075477929_49825749383",
-            "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VNoqSBkbg84AX_RywCS&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT-2nOj30E7e95pdDksQW4G73JPY0_C3MBf8jyTiDskc4Q&oe=632493F0&_nc_sid=a9513d",
+            "profile_pic_url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=S7qjlHOp__0AX-EN5Lj&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT89ajGDwUsM2fvwDqo4tU5Wuy1c-fERVBcILFFyO29e5g&oe=634E1B30&_nc_sid=a9513d",
             "remove_message_entrypoint": false,
             "request_contact_enabled": false,
             "robi_feedback_source": null,
@@ -160,8 +164,8 @@
         "is_verified": false,
         "location_transparency_country": null,
         "overall_category_name": null,
-        "profile_pic_url": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VNoqSBkbg84AX_RywCS&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT90Q2N3ylgihy7TRUj7u7FBVRZrMerWrKVuNrfhuNbS7Q&oe=632493F0&_nc_sid=8fd12b",
-        "profile_pic_url_hd": "https://scontent-arn2-1.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VNoqSBkbg84AX_RywCS&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_odFHqstjInwT23IuunZKInICzf1xdm4w0PjQ1fz2fow&oe=632493F0&_nc_sid=8fd12b",
+        "profile_pic_url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=S7qjlHOp__0AX-EN5Lj&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_e5-n_7UdF11_hLJQWUqjfDU0XcBjfQLNVBChFAkuFhQ&oe=634E1B30&_nc_sid=8fd12b",
+        "profile_pic_url_hd": "https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-19/247036611_375966474258950_8960809289299123078_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=S7qjlHOp__0AX-EN5Lj&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8MQl4MY0G9yrhOXYrPa98FAbW5E6vXyR1Lj30doQ5prg&oe=634E1B30&_nc_sid=8fd12b",
         "pronouns": [],
         "requested_by_viewer": false,
         "restricted_by_viewer": false,
