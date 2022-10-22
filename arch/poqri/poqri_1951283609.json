@@ -64,6 +64,8 @@
             "fan_club_info": {
                 "fan_club_id": null,
                 "fan_club_name": null,
+                "fan_consideration_page_revamp_eligiblity": null,
+                "is_fan_club_gifting_eligible": null,
                 "is_fan_club_referral_eligible": null
             },
             "follow_friction_type": 0,
@@ -84,7 +86,7 @@
             "has_videos": false,
             "hd_profile_pic_url_info": {
                 "height": 150,
-                "url": "https://scontent-frt3-2.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=FQWbYqW0faoAX82RIJQ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9KuczBPNgAXUWoy9JcRYDa9I4YFLT87AllIx5XJx6xqg&oe=634637DE&_nc_sid=a9513d",
+                "url": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=109&_nc_ohc=p4i3W-4Nw3UAX9c5UvZ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9yDVCYp2dd7wsOEwexJBWjUqMWlO_9zfcIl4XRDryixA&oe=6358041E&_nc_sid=a9513d",
                 "width": 150
             },
             "highlight_reshare_disabled": false,
@@ -115,7 +117,7 @@
             "profile_context": "",
             "profile_context_facepile_users": [],
             "profile_context_links_with_user_ids": [],
-            "profile_pic_url": "https://scontent-frt3-2.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=FQWbYqW0faoAX82RIJQ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9KuczBPNgAXUWoy9JcRYDa9I4YFLT87AllIx5XJx6xqg&oe=634637DE&_nc_sid=a9513d",
+            "profile_pic_url": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=109&_nc_ohc=p4i3W-4Nw3UAX9c5UvZ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AT9yDVCYp2dd7wsOEwexJBWjUqMWlO_9zfcIl4XRDryixA&oe=6358041E&_nc_sid=a9513d",
             "remove_message_entrypoint": false,
             "request_contact_enabled": false,
             "robi_feedback_source": null,
@@ -141,8 +143,8 @@
         "is_verified": false,
         "location_transparency_country": null,
         "overall_category_name": null,
-        "profile_pic_url": "https://scontent-frt3-2.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=FQWbYqW0faoAX82RIJQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9rEjpqJmeVvWy8ygvQdzGpagGFTgqbYyDjKmp6bLhiOQ&oe=634637DE&_nc_sid=8fd12b",
-        "profile_pic_url_hd": "https://scontent-frt3-2.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=FQWbYqW0faoAX82RIJQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9rEjpqJmeVvWy8ygvQdzGpagGFTgqbYyDjKmp6bLhiOQ&oe=634637DE&_nc_sid=8fd12b",
+        "profile_pic_url": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=109&_nc_ohc=p4i3W-4Nw3UAX9c5UvZ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8IJaxdNgjMo1pIXsjd24KbeoGT2bYu_veJSJ9gr1JhYQ&oe=6358041E&_nc_sid=8fd12b",
+        "profile_pic_url_hd": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/11264322_1405703519753241_1229247542_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=109&_nc_ohc=p4i3W-4Nw3UAX9c5UvZ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8IJaxdNgjMo1pIXsjd24KbeoGT2bYu_veJSJ9gr1JhYQ&oe=6358041E&_nc_sid=8fd12b",
         "pronouns": [],
         "requested_by_viewer": false,
         "restricted_by_viewer": false,
