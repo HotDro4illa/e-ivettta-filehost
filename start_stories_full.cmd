@@ -7,6 +7,5 @@ cd ..
 python copier.py
 git add -A
 git commit -m "update"
-git pull
 git push
 pause
